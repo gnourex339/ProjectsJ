@@ -19,6 +19,6 @@ public class App {
             
             default : System.err.println("no days of this number!");
         }
-        System.out.println("Hello, World!");/*k*/
+        System.out.println("Hello, World!");
     }
 }

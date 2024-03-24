@@ -20,5 +20,8 @@ public class App {
             default : System.err.println("no days of this number!");
         }
         System.out.println("Hello, World!");
+        for(int I = 0; I<10;I++){
+            System.out.println("this is number: "+ I);
+        }
     }
 }
